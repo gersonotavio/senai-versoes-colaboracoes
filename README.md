@@ -32,3 +32,5 @@ https://github.com/[usuario]/[nome-projeto].git
 - [ ] B
 - [ ] C
 ---
+
+"lembrei do comando: git status"
